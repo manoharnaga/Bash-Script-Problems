@@ -1,4 +1,4 @@
-## **Assignment 1**
+## **The following is done as a part of Course assignments - it has the solutions for the attached pdf in SHELL SCRIPT**
 ## **Introduction to Software Systems – Spring 2022**
 ## ROLL.NO: 2021101128
 
